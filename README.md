@@ -30,8 +30,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
-cd iphone-doc
+git https://github.com/17520605/website-introduce-iPhone15-react-vite
+cd website-introduce-iPhone15-react-vite
 ```
 
 **Installation**
