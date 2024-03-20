@@ -11,7 +11,10 @@ export default defineConfig({
     org: "k2group",
     project: "javascript-react-2"
   })],
-
+  server: {
+    host: process.env.VITE_HOST || 'localhost',
+    port: Number(process.env.VITE_PORT) || 3000
+  },
   build: {
     sourcemap: true
   }
