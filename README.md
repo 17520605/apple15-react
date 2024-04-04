@@ -30,7 +30,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git https://github.com/17520605/website-introduce-iPhone15-react-vite
+git https://github.com/nguyenhuuminhkhai/website-introduce-iPhone15-react-vite.git
 cd website-introduce-iPhone15-react-vite
 ```
 
